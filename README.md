@@ -23,7 +23,7 @@
 ## Heroku Deployment
 
 <p align = center > <a href="https://gpt-qr-code.onrender.com/cyber-x"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a> </p> <br>
-<p align = center > <a href="https://heroku.com/deploy?template=https://github.com/CYBER-TECH-TEAM/CYBER-X-WHATSAPP-BOT" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a> </p>
+<p align = center > <a href="https://heroku.com/deploy?template=https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a> </p>
 
 
 
