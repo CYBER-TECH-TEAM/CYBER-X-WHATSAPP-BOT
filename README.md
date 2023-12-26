@@ -20,17 +20,11 @@
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
+1. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
 ## Heroku Deployment
 
-1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
-
-2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
-
-3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
-
-4. Create your own Heroku template Link `https://heroku.com/deploy?template={Your repo Link}`
-
-5. Deploy now without Heroku Suspend
+<p align = center > <a href="https://gpt-qr-code.onrender.com/cyber-x"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a> </p> <br>
+<p align = center > <a href="https://heroku.com/deploy?template=https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a> </p>
 
 
 ## Features
